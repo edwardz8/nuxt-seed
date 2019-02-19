@@ -18,6 +18,7 @@
     "vuetify": "^1.5.1"
   },
   "devDependencies": {
+    "axios": "^0.18.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^4.19.1",
     "eslint-friendly-formatter": "^4.0.1",
